@@ -1,0 +1,6 @@
+{
+	"data": {
+		"services": ["account_1", "test_account", "test_account2222"],
+		"websites": ["website_1", "test_website", "test_website2222"]
+	}
+}
